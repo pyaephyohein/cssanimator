@@ -64,6 +64,7 @@ svg {
 	100% {stroke-dashoffset: -35%;}
 }
 </style>
+<?php
 <body>
 <svg viewBox="0 0 960 300">
 	<symbol id="s-text">
@@ -81,4 +82,5 @@ svg {
     </g>
 </svg>
 </body>
+?>
 </html>
